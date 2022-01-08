@@ -8,7 +8,7 @@
 
 ## Introduction
 
-You have been hired as a contractor for Scuber, a burgeoning startup that helps
+You have been hired as a contractor for Scuber, a bxurgeoning startup that helps
 busy parents transport their children to and from all of their activities on
 scooters.
 
